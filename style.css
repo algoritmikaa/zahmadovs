@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.special_link {
+    background-color: lightcoral;
+    border: 0px;
+    padding: 5px;
+    color: white;
+}
+
+font {
+    background-color: ;
+    padding: 5px;
+}
+
+footer p {
+    font-size: 20px;
+    background-color: white;
+}
+
+header {
+    background-color: greenyellow;
+}
+
+h1 font {
+    background-color: limegreen;
+}
+
+nav {
+    text-align: end;
+}
+
+nav a {
+    border: 5px solid black;
+    color: black;
+}
+
+footer {
+    background-color: darkgreen;
+    padding: 5px;
+}
+
+header {
+    margin-bottom: 30px;
+}
